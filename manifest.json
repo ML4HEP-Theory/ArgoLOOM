@@ -1,0 +1,75 @@
+{
+  "created": "2025-08-26 14:50:09",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "emb_dim": 384,
+  "normalize": true,
+  "index_type": "IndexFlatIP",
+  "docs": [
+    {
+      "doc_id": "1502.06541",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_tzh_a5n_/1502.06541.pdf",
+      "pages": 38,
+      "chunks": 91
+    },
+    {
+      "doc_id": "0901.0011",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_b1u1gy38/0901.0011.pdf",
+      "pages": 37,
+      "chunks": 72
+    },
+    {
+      "doc_id": "1303.3011",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_oduptbtl/1303.3011.pdf",
+      "pages": 51,
+      "chunks": 127
+    },
+    {
+      "doc_id": "1807.07938",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_6_o3qwv9/1807.07938.pdf",
+      "pages": 106,
+      "chunks": 234
+    },
+    {
+      "doc_id": "1803.10661",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_y7jqtkwi/1803.10661.pdf",
+      "pages": 32,
+      "chunks": 81
+    },
+    {
+      "doc_id": "1003.0904",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_3gjoipq5/1003.0904.pdf",
+      "pages": 62,
+      "chunks": 147
+    },
+    {
+      "doc_id": "2306.03918",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_mqq429jr/2306.03918.pdf",
+      "pages": 61,
+      "chunks": 140
+    },
+    {
+      "doc_id": "2006.12520",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_h07yt6qj/2006.12520.pdf",
+      "pages": 17,
+      "chunks": 55
+    },
+    {
+      "doc_id": "1904.00022",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_wqw8bkp9/1904.00022.pdf",
+      "pages": 39,
+      "chunks": 255
+    },
+    {
+      "doc_id": "1803.02777",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_xbfio8sg/1803.02777.pdf",
+      "pages": 43,
+      "chunks": 201
+    },
+    {
+      "doc_id": "2203.13199",
+      "source": "/var/folders/7y/0h063m094m5dw1wqk6kxm11c0000gn/T/kb_arxiv_xr2s1gdm/2203.13199.pdf",
+      "pages": 93,
+      "chunks": 301
+    }
+  ]
+}
